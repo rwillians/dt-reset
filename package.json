@@ -1,0 +1,16 @@
+{
+  "name": "dt-reset",
+  "description": "Distinct Date, Time and DateTime objects for JS/TS",
+  "author": "Rafael Willians <me@rwillians.com>",
+  "keywords": ["date", "time", "datetime"],
+  "main": "dist/index.js",
+  "files": [
+    "README.md",
+    "LICENSE",
+    "dist/*"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
