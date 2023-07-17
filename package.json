@@ -1,6 +1,6 @@
 {
-  "name": "dt-reset",
-  "description": "Distinct Date, Time and DateTime objects for JS/TS",
+  "name": "reasonable-datetime",
+  "description": "Immutable distinct Date, Time and DateTime objects.",
   "author": "Rafael Willians <me@rwillians.com>",
   "keywords": ["date", "time", "datetime"],
   "main": "dist/index.js",
